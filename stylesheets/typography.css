@@ -1,0 +1,67 @@
+﻿body {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	color: #222;
+	line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, {
+	  font-weight: 100;
+	  margin: 0;
+	  text-align: center;
+}
+.text-center{
+	text-align: center;
+}
+p {
+	margin: 0;
+}
+h1, h3 {
+	color: #000;
+}
+
+.part h1, .column h1{
+	margin-bottom: 26px;
+}
+
+h1, h2 {
+	font-size: 36px;
+}
+
+h2 {
+	color: #333;
+	margin-bottom: 40px;
+}
+
+h3 {
+	font-size: 28px;
+}
+
+a {
+	text-decoration: none;
+	color: #2597d1;
+}
+
+.part p, {
+	font-size: 14px;
+}
+
+.part p , .increased {
+	text-align: left;
+}
+
+.part p {
+	margin-bottom: 30px;
+}
+
+h4 {
+	text-transform: uppercase;
+	font-size: 12px;
+	color: #8c8c8c;
+	margin-bottom: 18px;
+}
+
+.increased {
+	font-size: 16px;
+	color: #777;
+}

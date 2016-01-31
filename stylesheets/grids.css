@@ -1,0 +1,20 @@
+﻿row {
+	overflow: auto;
+}
+
+.col1of3,.col1of4 {
+  float: left;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0 $gutter-space;
+
+}
+
+.col1of3 {
+  width: 50%;
+}
+
+.col1of4 {
+  width: 25%;
+}

@@ -1,0 +1,29 @@
+.part, .column {
+	border-bottom: 1px dashed #cacaca;
+}
+
+.part  {
+	padding: 75px 0 100px 0;
+}
+
+.column {
+	padding: 33px 0 33px 0;
+}
+
+.col1of3 {
+	padding-right: 15px;
+}
+
+.col1of4 {
+	text-align: center;
+}
+
+.main {
+	padding: 43px 0 33px 0;
+}
+.block3{
+	text-align: center;
+}
+.entry {
+	text-align: center;
+}
